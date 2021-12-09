@@ -11,3 +11,5 @@ logs/run_anfis
 # personal vscode settings
 .vscode
 settings.json
+[Dd]ummy*
+*.csv
