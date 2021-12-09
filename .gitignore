@@ -13,3 +13,5 @@ logs/run_anfis
 settings.json
 [Dd]ummy*
 *.csv
+*.ipynb_checkpoints
+*/.ipynb_checkpoints
